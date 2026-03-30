@@ -39,8 +39,7 @@ All tasks are organized into separate folders. Each folder contains the relevant
 
 ## Links
 - Google form quiz:https://docs.google.com/forms/d/e/1FAIpQLSc_5WzAqEE-gMsdrIorDjmC-LkIyZ2zmtvVXewuzbeQceDzow/viewform?usp=header
--  GitHub Profile:  
-- LinkedIn Profile: 
-- Kaggle Profile:
+-  GitHub Profile:https://github.com/shagunbhuyan29  
+- LinkedIn Profile: https://www.linkedin.com/in/shagun-bhuyan-366935390/
 ## Conclusion
 This project helped me understand the importance of digital literacy and improved my ability to use digital tools effectively and responsibly.
